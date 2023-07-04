@@ -13,4 +13,4 @@ All usb ports are mapped including intel bluetooth, all usb2, usb3, and type-c.
 
 Part of USB ports support USB10G.
 
-Intel wifi and bluetooth are wording.
+Intel wifi and bluetooth are working.
